@@ -1,7 +1,7 @@
 package strategy.ext;
 
 /**
- * 扩展：策略枚举 liwenguang 2018-10-31 16:41:43
+ * 扩展：策略枚举 liwenguang 2018-10-31 17:07:45
  */
 public enum Calculator {
     //加法运算
